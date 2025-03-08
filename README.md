@@ -1,4 +1,4 @@
-Got it! Here's the `README.md` without the hashtags:
+
 
 Responsive Landing Page
 
